@@ -1,0 +1,3 @@
+OS type : Windows_NT
+Total memory : 16793206784
+Free memory : 7250718720
